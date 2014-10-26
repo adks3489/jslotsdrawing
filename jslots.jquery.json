@@ -1,0 +1,22 @@
+{
+    "name": "jslotsDrawing",
+    "title": "jQuery jSlots drawing",
+    "description": "",
+    "keywords": [
+        "drawing",
+        "slots"
+    ],
+    "version": "1.0.0",
+    "dependencies": {
+        "jquery": ">=1.4.1"
+    },
+    "author": {
+        "name": "James Chiang"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+}
