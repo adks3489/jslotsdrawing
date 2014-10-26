@@ -82,7 +82,7 @@
       this.$uiList = $(this.uiList);
     };
     base.Slot.prototype = {
-      spinAnimation : function(index, spinSpeed) {
+      spinAnimation : function(index) {
         var that = this;
         that.$uiList
           .css( 'top', -base.listHeight )
